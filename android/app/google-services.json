@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809136766122",
+    "project_id": "rdvv-b41e2",
+    "storage_bucket": "rdvv-b41e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809136766122:android:f99e374c945d28c9a9a4d3",
+        "android_client_info": {
+          "package_name": "com.techboon.rdvv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809136766122-bmchdjtvde5bidbceirub3mctefrd5l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7zC6-VqbGcKYlS8u29UbQjo0DmNreJWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809136766122-bmchdjtvde5bidbceirub3mctefrd5l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

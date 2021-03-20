@@ -35,8 +35,10 @@ dependencies:
   flutter_downloader: ^1.5.2
   path_provider: ^1.6.27
   url_launcher: ^5.7.10
-  firebase_core:
-  firebase_admob: 
+  firebase_core: 0.5.3
+  firebase_admob: 0.10.3
+  flutter_native_admob: ^2.1.0+3
+ 
 
 
 
